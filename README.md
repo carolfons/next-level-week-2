@@ -8,7 +8,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/carolfons/next-level-week-2)
 
 <h3> :computer: About the Project </h3>
-<p> Developing the project during the NLW#2 </p>
+<p> Developing a study plataform for teachers and students during the NLW#2 </p>
 
 <h3> Status </h3>
 <p> 🚧  🚀 Under construction...  🚧 </p>
