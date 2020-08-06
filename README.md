@@ -3,6 +3,10 @@
 
 <a href="https://nextlevelweek.com/inscricao/2">RocketSeat's NLW#2</a>
 -----------------------------------------------------------------------------------------------------
+![GitHub repo size](https://img.shields.io/github/repo-size/carolfons/next-level-week-2)
+![GitHub](https://img.shields.io/github/license/carolfons/next-level-week-2)
+![GitHub last commit](https://img.shields.io/github/last-commit/carolfons/next-level-week-2)
+
 <h3> :computer: About the Project </h3>
 <p> Developing the project during the NLW#2 </p>
 
