@@ -3,10 +3,10 @@
 
 <a href="https://nextlevelweek.com/inscricao/2">RocketSeat's NLW#2</a>
 -----------------------------------------------------------------------------------------------------
-<h3> About the Project </h3>
+<h3> :computer: About the Project </h3>
 <p> Developing the project during the NLW#2 </p>
 
-<h3> :computer: Status </h3>
+<h3> Status </h3>
 <p> 🚧  🚀 Under construction...  🚧 </p>
 
 ### Progress
