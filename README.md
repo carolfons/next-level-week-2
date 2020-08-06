@@ -1,6 +1,8 @@
 <h1> Next Level Week #2</h1> 
 <h2> Trying to reach the Next Level :rocket: </h2>
+
 -----------------------------------------------------------------------------------------------------
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/carolfons/next-level-week-2)
 ![GitHub](https://img.shields.io/github/license/carolfons/next-level-week-2)
 ![GitHub last commit](https://img.shields.io/github/last-commit/carolfons/next-level-week-2)
