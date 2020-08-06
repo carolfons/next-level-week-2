@@ -1,7 +1,5 @@
 <h1> Next Level Week #2</h1> 
 <h2> Trying to reach the Next Level :rocket: </h2>
-
-<a href="https://nextlevelweek.com/inscricao/2">RocketSeat's NLW#2</a>
 -----------------------------------------------------------------------------------------------------
 ![GitHub repo size](https://img.shields.io/github/repo-size/carolfons/next-level-week-2)
 ![GitHub](https://img.shields.io/github/license/carolfons/next-level-week-2)
