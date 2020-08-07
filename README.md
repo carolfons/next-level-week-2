@@ -12,7 +12,7 @@
 <p> Developing a study plataform for teachers and students during the NLW#2 </p>
 
 <h3> Status </h3>
-<p> 🚧  🚀 Under construction...  🚧 </p>
+<p> 🚧  Under construction...  🚧 </p>
 
 ### Progress
 - [x] First Class
