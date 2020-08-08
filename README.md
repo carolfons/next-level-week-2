@@ -15,10 +15,10 @@
 <p> 🚧  Under construction...  🚧 </p>
 
 ### Progress
-- [x] First Class
-- [x] Second Class
-- [ ] Third Class
-- [ ] Fourth Class
-- [ ] Fifth Class
+  - [x] First Class
+  - [x] Second Class
+  - [ ] Third Class
+  - [ ] Fourth Class
+  - [ ] Fifth Class
 
 
