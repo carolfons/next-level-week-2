@@ -17,7 +17,7 @@
 ### Progress
   - [x] First Class
   - [x] Second Class
-  - [ ] Third Class
+  - [x] Third Class
   - [ ] Fourth Class
   - [ ] Fifth Class
 
