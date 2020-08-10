@@ -1,0 +1,26 @@
+{
+  "name": "NLW",
+  "version": "1.0.0",
+  "description": "<h1> Next Level Week #2</h1> \r <h2> Trying to reach the Next Level :rocket: </h2>\r <a href=\"https://rocketseat.com.br\">RocketSeat :rocket:</a>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolfons/next-level-week-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carolfons/next-level-week-2/issues"
+  },
+  "homepage": "https://github.com/carolfons/next-level-week-2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
